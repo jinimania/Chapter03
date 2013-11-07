@@ -8,9 +8,9 @@ package springbook.user.domain;
  * To change this template use File | Settings | File Templates.
  */
 public class User {
-    String id;
-    String name;
-    String password;
+    private String id;
+    private String name;
+    private String password;
 
     public User() {
     }
